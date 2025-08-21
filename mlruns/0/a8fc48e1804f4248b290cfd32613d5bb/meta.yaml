@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Projects/NetworkSecurity/mlruns/0/a8fc48e1804f4248b290cfd32613d5bb/artifacts
+end_time: 1755781854919
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8fc48e1804f4248b290cfd32613d5bb
+run_name: sedate-ox-671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755781845970
+status: 3
+tags: []
+user_id: shaik
