@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Projects/NetworkSecurity/mlruns/0/97d3ae0f74044ac38b4dbe9f2fbb96c4/artifacts
+end_time: 1755831443960
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97d3ae0f74044ac38b4dbe9f2fbb96c4
+run_name: righteous-smelt-72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755831437358
+status: 3
+tags: []
+user_id: shaik
